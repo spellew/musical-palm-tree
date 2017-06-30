@@ -1,0 +1,52 @@
+/* add your CSS here */
+
+html {
+    padding: 10px;
+}
+
+body {
+    width: 312px;
+    border: 1px solid #D3D3D3;
+    padding-left: 12px;
+    padding-bottom: 12px;
+    box-shadow: 10px 10px 5px #D3D3D3;
+}
+
+img, h3 {
+    width: 300px;
+    border: 1px solid #D3D3D3;
+    margin-bottom: 12px;
+}
+
+p, li {
+    padding-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    text-transform: capitalize;
+}
+
+li > span {
+    font-weight: bold;
+}
+
+.text-content {
+    border: 1px solid #D3D3D3;
+    font-size: 75%;
+    width: 300px;
+}
+
+.inner-text-content {
+    width: 276px;
+    padding: 10px 12px;
+    line-height: 125%;
+}
+
+.interesting-fact {
+    font-style: italic;
+}
