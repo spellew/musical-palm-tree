@@ -1,0 +1,9 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+I don't think I learned anything new while working on this project, due to my prior experience with HTML and CSS. This project was a nice refresher though, I was reminded of a few things. The easiest part was matching what I saw in the mock up PDF to the elements I already knew, and adding those elements to the HTML document. The difficult part was describing unknown elements, so I could look them up and add them to the HTML document. I used the problem solving strategies from the first project to help me find the unknown elements.
